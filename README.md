@@ -116,32 +116,32 @@ Participants are encouraged, but not required, to use the baseline as a template
 
 | Repository            | Label         | Precision | Recall | F1         |
 | --------------------- | ------------- | --------- | ------ | ---------- |
-| facebook/react        | bug           | 0.0000    | 0.0000 | 0.0000     |
-| facebook/react        | feature       | 0.0000    | 0.0000 | 0.0000     |
-| facebook/react        | question      | 0.0000    | 0.0000 | 0.0000     |
-| facebook/react        | average       | 0.0000    | 0.0000 | 0.0000     |
+| facebook/react        | bug           | 0.9048    | 0.9500 | 0.9268     |
+| facebook/react        | feature       | 0.8491    | 0.9000 | 0.8738     |
+| facebook/react        | question      | 0.8652    | 0.7700 | 0.8148     |
+| facebook/react        | average       | 0.8729    | 0.8733 | 0.8718     |
 | | | | | |
-| tensorflow/tensorflow | bug           | 0.0000    | 0.0000 | 0.0000     |
-| tensorflow/tensorflow | feature       | 0.0000    | 0.0000 | 0.0000     |
-| tensorflow/tensorflow | question      | 0.0000    | 0.0000 | 0.0000     |
-| tensorflow/tensorflow | average       | 0.0000    | 0.0000 | 0.0000     |
+| tensorflow/tensorflow | bug           | 0.9565    | 0.8800 | 0.9167     |
+| tensorflow/tensorflow | feature       | 0.8558    | 0.8900 | 0.8725     |
+| tensorflow/tensorflow | question      | 0.7885    | 0.8200 | 0.8039     |
+| tensorflow/tensorflow | average       | 0.8669    | 0.8633 | 0.8644     |
 | | | | | |
-| microsoft/vscode      | bug           | 0.0000    | 0.0000 | 0.0000     |
-| microsoft/vscode      | feature       | 0.0000    | 0.0000 | 0.0000     |
-| microsoft/vscode      | question      | 0.0000    | 0.0000 | 0.0000     |
-| microsoft/vscode      | average       | 0.0000    | 0.0000 | 0.0000     |
+| microsoft/vscode      | bug           | 0.8485    | 0.8400 | 0.8442     |
+| microsoft/vscode      | feature       | 0.7627    | 0.9000 | 0.8257     |
+| microsoft/vscode      | question      | 0.8916    | 0.7400 | 0.8087     |
+| microsoft/vscode      | average       | 0.8343    | 0.8267 | 0.8262     |
 | | | | | |
-| bitcoin/bitcoin       | bug           | 0.0000    | 0.0000 | 0.0000     |
-| bitcoin/bitcoin       | feature       | 0.0000    | 0.0000 | 0.0000     |
-| bitcoin/bitcoin       | question      | 0.0000    | 0.0000 | 0.0000     |
-| bitcoin/bitcoin       | average       | 0.0000    | 0.0000 | 0.0000     |
+| bitcoin/bitcoin       | bug           | 0.7604    | 0.7300 | 0.7449     |
+| bitcoin/bitcoin       | feature       | 0.8723    | 0.8200 | 0.8454     |
+| bitcoin/bitcoin       | question      | 0.6455    | 0.7100 | 0.6762     |
+| bitcoin/bitcoin       | average       | 0.7594    | 0.7533 | 0.7555     |
 | | | | | |
-| opencv/opencv         | bug           | 0.0000    | 0.0000 | 0.0000     |
-| opencv/opencv         | feature       | 0.0000    | 0.0000 | 0.0000     |
-| opencv/opencv         | question      | 0.0000    | 0.0000 | 0.0000     |
-| opencv/opencv         | average       | 0.0000    | 0.0000 | 0.0000     |
+| opencv/opencv         | bug           | 0.7619    | 0.8000 | 0.7805     |
+| opencv/opencv         | feature       | 0.8842    | 0.8400 | 0.8615     |
+| opencv/opencv         | question      | 0.8100    | 0.8100 | 0.8100     |
+| opencv/opencv         | average       | 0.8187    | 0.8167 | 0.8173     |
 | | | | | |
-| average               | bug           | 0.0000    | 0.0000 | 0.0000     |
-| average               | feature       | 0.0000    | 0.0000 | 0.0000     |
-| average               | question      | 0.0000    | 0.0000 | 0.0000     |
-| average               | average       | 0.0000    | 0.0000 | **0.0000** |
+| overall               | bug           | 0.8464    | 0.8400 | 0.8426     |
+| overall               | feature       | 0.8448    | 0.8700 | 0.8558     |
+| overall               | question      | 0.8001    | 0.7700 | 0.7827     |
+| overall               | average       | 0.8305    | 0.8267 | **0.8270** |
