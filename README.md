@@ -95,14 +95,16 @@ Participants must evaluate their project classifiers on the test set of the resp
 
 Project classification performance is measured using the F1 score over all the three classes (averaged). Submission performance is measured as the arithmetic mean of the five project F1 scores.
 
-A submission (i.e., paper) in the tool competition must provide, for each of the 5 repositories and overall:
+A submission (i.e., paper) in the tool competition must provide, for each of the 5 repositories and cross-repo:
 - Precision, for each class and cross-class average
 - Recall, for each class and cross-class average
 - F1 score, for each class and cross-class average
 
 Cross-class aggregation can be done using both the macro and micro averaging method, the result will be the same since the dataset is balanced.
 
-Please note that whilst all of the above measures must be provided for acceptance, the submissions will **only** be ranked by their F1 score.
+Cross-repo aggregation is done using the arithmetic mean.
+
+Please note that whilst all of the above measures must be provided for acceptance, the submissions will **only** be ranked by their cross-repo F1 score.
 
 > You can use the table from the baseline below as a template for your evaluation.
 
