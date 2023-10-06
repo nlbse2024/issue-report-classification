@@ -93,7 +93,7 @@ Participants must evaluate their project classifiers on the test set of the resp
 
 **Important:** you may apply any preprocessing or feature engineering on this dataset except sampling, rebalancing, undersampling or oversampling techniques.
 
-Project classification performance is measured using the F1 score over all the three classes (averaged). Submission performance is measured as the arithmetic mean of the five project F1 scores.
+Repository classification performance is measured using the F1 score over all the three classes (averaged). Cross-repository performance is measured as the arithmetic mean of the five repository F1 scores.
 
 A submission (i.e., paper) in the tool competition must provide, for each of the 5 repositories and cross-repo:
 - Precision, for each class and cross-class average
@@ -141,7 +141,7 @@ Participants are encouraged, but not required, to use the baseline as a template
 | opencv/opencv         | question      | 0.0000    | 0.0000 | 0.0000     |
 | opencv/opencv         | average       | 0.0000    | 0.0000 | 0.0000     |
 | | | | | |
-| overall               | bug           | 0.0000    | 0.0000 | 0.0000     |
-| overall               | feature       | 0.0000    | 0.0000 | 0.0000     |
-| overall               | question      | 0.0000    | 0.0000 | 0.0000     |
-| overall               | average       | 0.0000    | 0.0000 | **0.0000** |
+| average               | bug           | 0.0000    | 0.0000 | 0.0000     |
+| average               | feature       | 0.0000    | 0.0000 | 0.0000     |
+| average               | question      | 0.0000    | 0.0000 | 0.0000     |
+| average               | average       | 0.0000    | 0.0000 | **0.0000** |
