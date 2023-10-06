@@ -131,27 +131,27 @@ Participants are encouraged, but not required, to use the baseline as a template
 | facebook/react        | feature       | 0.0000    | 0.0000 | 0.0000     |
 | facebook/react        | question      | 0.0000    | 0.0000 | 0.0000     |
 | facebook/react        | average       | 0.0000    | 0.0000 | 0.0000     |
-| --------------------- | ------------- | --------- | ------ | ---------- |
+| | | | | |
 | tensorflow/tensorflow | bug           | 0.0000    | 0.0000 | 0.0000     |
 | tensorflow/tensorflow | feature       | 0.0000    | 0.0000 | 0.0000     |
 | tensorflow/tensorflow | question      | 0.0000    | 0.0000 | 0.0000     |
 | tensorflow/tensorflow | average       | 0.0000    | 0.0000 | 0.0000     |
-| --------------------- | ------------- | --------- | ------ | ---------- |
+| | | | | |
 | microsoft/vscode      | bug           | 0.0000    | 0.0000 | 0.0000     |
 | microsoft/vscode      | feature       | 0.0000    | 0.0000 | 0.0000     |
 | microsoft/vscode      | question      | 0.0000    | 0.0000 | 0.0000     |
 | microsoft/vscode      | average       | 0.0000    | 0.0000 | 0.0000     |
-| --------------------- | ------------- | --------- | ------ | ---------- |
+| | | | | |
 | bitcoin/bitcoin       | bug           | 0.0000    | 0.0000 | 0.0000     |
 | bitcoin/bitcoin       | feature       | 0.0000    | 0.0000 | 0.0000     |
 | bitcoin/bitcoin       | question      | 0.0000    | 0.0000 | 0.0000     |
 | bitcoin/bitcoin       | average       | 0.0000    | 0.0000 | 0.0000     |
-| --------------------- | ------------- | --------- | ------ | ---------- |
+| | | | | |
 | opencv/opencv         | bug           | 0.0000    | 0.0000 | 0.0000     |
 | opencv/opencv         | feature       | 0.0000    | 0.0000 | 0.0000     |
 | opencv/opencv         | question      | 0.0000    | 0.0000 | 0.0000     |
 | opencv/opencv         | average       | 0.0000    | 0.0000 | 0.0000     |
-| --------------------- | ------------- | --------- | ------ | ---------- |
+| | | | | |
 | overall               | bug           | 0.0000    | 0.0000 | 0.0000     |
 | overall               | feature       | 0.0000    | 0.0000 | 0.0000     |
 | overall               | question      | 0.0000    | 0.0000 | 0.0000     |
