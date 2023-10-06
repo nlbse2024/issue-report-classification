@@ -56,6 +56,19 @@ Since you will be using our dataset (and possibly one of our notebooks) as well 
 }
 ```
 
+```bibtex
+@inproceedings{colavito2023few,
+  author={Colavito, Giuseppe and Lanubile, Filippo and Novielli, Nicole},
+  booktitle={2023 IEEE/ACM 2nd International Workshop on Natural Language-Based Software Engineering (NLBSE)}, 
+  title={Few-Shot Learning for Issue Report Classification}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={16-19},
+  doi={10.1109/NLBSE59153.2023.00011}
+}
+```
+
 ## Dataset
 
 A dataset of 3 thousand publicly-available issue reports is extracted.
