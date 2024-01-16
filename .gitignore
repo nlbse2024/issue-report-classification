@@ -1,6 +1,13 @@
 .env
 
-output/
+output/**
+!output/fasttext
+!output/fasttext/results.json
+!output/roberta
+!output/roberta/results.json
+!output/setfit
+!output/setfit/results.json
+
 wandb/
 
 # Byte-compiled / optimized / DLL files
